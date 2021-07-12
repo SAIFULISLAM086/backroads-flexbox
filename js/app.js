@@ -6,6 +6,7 @@ const date = (document.getElementById(
 
 // ********** nav toggle ************
 // select button and links
+// select button and links
 const navBtn = document.getElementById("nav-toggle");
 const links = document.getElementById("nav-links");
 // add event listener
